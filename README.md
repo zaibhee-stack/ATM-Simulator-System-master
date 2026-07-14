@@ -183,7 +183,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**J B**
+jaibhee
 
 Computer Science Engineer
 
